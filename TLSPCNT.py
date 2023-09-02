@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep  1 16:49:39 2023
-
-@author: jaris
-"""
-
 import os
 from ctypes import cdll, c_long, c_uint32, c_uint16,byref,create_string_buffer, \
                     c_bool, c_char_p,c_int,c_int16, c_int32,c_double, \
